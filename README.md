@@ -15,3 +15,7 @@ black font color.
 This Style Sheet for Stylish modifies Pantip.com's CSS to have white
 background color and black font color so we could use Dasung PaperLike
 Pro monitor to read contents on Pantip.com properly.
+
+You can also find it on UserStyles.org here:
+
+[https://userstyles.org/styles/149168/pantip-for-dasung-paperwhite-pro](https://userstyles.org/styles/149168/pantip-for-dasung-paperwhite-pro)
